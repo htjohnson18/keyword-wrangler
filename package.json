@@ -11,7 +11,7 @@
   "dependencies": {
     "async": "^2.6.1",
     "bower": "^1.8.4",
-    "db-migrate": "^0.9.26",
+    "db-migrate": "^0.11.1",
     "mysql": "^2.15.0",
     "node-dbi": "^0.7.1",
     "percolator": "^1.5.0"
@@ -19,6 +19,6 @@
   "devDependencies": {
     "jasmine-node": "^1.15.0",
     "request": "^2.87.0",
-    "sqlite3": "^3.1.13"
+    "sqlite3": "^4.0.1"
   }
 }
